@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://kenezen.github.io/atom.xml" rel="self"/>
   <link href="http://kenezen.github.io/"/>
-  <updated>2015-01-20T19:08:55-05:00</updated>
+  <updated>2015-01-20T19:27:47-05:00</updated>
   <id>http://kenezen.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[My First Post]]></title>
+    <link href="http://kenezen.github.io/blog/2015/01/20/my-first-post/"/>
+    <updated>2015-01-20T19:14:38-05:00</updated>
+    <id>http://kenezen.github.io/blog/2015/01/20/my-first-post</id>
+    <content type="html"><![CDATA[<p>This is a test post. Just trying to figure out how to write posts using Octopress.</p>
+]]></content>
+  </entry>
   
 </feed>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: test | My Octopress Blog]]></title>
+  <link href="http://kenezen.github.io/blog/categories/test/atom.xml" rel="self"/>
+  <link href="http://kenezen.github.io/"/>
+  <updated>2015-01-20T19:27:47-05:00</updated>
+  <id>http://kenezen.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My First Post]]></title>
+    <link href="http://kenezen.github.io/blog/2015/01/20/my-first-post/"/>
+    <updated>2015-01-20T19:14:38-05:00</updated>
+    <id>http://kenezen.github.io/blog/2015/01/20/my-first-post</id>
+    <content type="html"><![CDATA[<p>This is a test post. Just trying to figure out how to write posts using Octopress.</p>
+]]></content>
+  </entry>
+  
+</feed>
